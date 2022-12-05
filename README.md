@@ -13,5 +13,5 @@ My first repository
 9. Jurassic World
 10. Warriors of Future
 
-**That is so funny! :joy:**
+**That is so fun! :joy:**
 
